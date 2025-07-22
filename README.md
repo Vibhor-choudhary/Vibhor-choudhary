@@ -1,7 +1,8 @@
 # Vibhor Choudhary | AI Knowledge Alchemist & Automation Explorer 🚀🧠
 > Transforming complex problems into actionable AI & automation solutions.
 
-![Vibhor Choudhary AI & Automation Banner](assets/Professional Cohesive Set Jul 22.jpeg)
+![Professional Cohesive Set Jul 22](https://github.com/user-attachments/assets/01250a63-29e3-4f8d-aada-5a61fcf554ac)
+
 ---
 
 ## 👋 Welcome!
