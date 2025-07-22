@@ -1,7 +1,7 @@
 # Vibhor Choudhary | AI Knowledge Alchemist & Automation Explorer 🚀🧠
 > Transforming complex problems into actionable AI & automation solutions.
 
-![Vibhor Choudhary AI & Automation Banner](assets/your-banner-image.png)
+![Vibhor Choudhary AI & Automation Banner](assets/Professional Cohesive Set Jul 22.jpeg)
 ---
 
 ## 👋 Welcome!
@@ -44,8 +44,12 @@ I explore, build, and share practical automation and AI workflows. My focus: con
 ### 2. Multi-Agent AI Workflow Systems
 * **Focus:** Autonomous workflow orchestration using n8n + LLMs.
 * **Components:** Implemented multi-turn prompt chaining with responsible AI best practices; integrated Python, Fliki, Notion, and Gmail APIs; focused on pipeline debugging and optimization for GenAI workloads; conducted no-code experiments with Replit, MCP, and Playwright.
-* **Relevant LinkedIn Post/Video:** [See Demos & Details Here]([https://www.linkedin.com/in/vibhor-choudhary/edit/forms/position/2665981239/?profileFormEntryPoint=PROFILE_SECTION]
-* ### 3. Professional Consulting Simulations
+* **Relevant LinkedIn Demos:**
+    * [Gmail AI Agent Demo](https://www.linkedin.com/posts/vibhor-choudhary_replied-by-ai-approved-by-human-activity-7346394793649836032-AeCz)
+    * [Day 5 of 30 #BuildWithAI: n8n Workflow](https://www.linkedin.com/posts/vibhor-choudhary_day5of30-buildwithai-n8n-activity-7346764721766715392-u_U_)
+    * [Day 9 of 30 #30DaysOfAI: Agentic AI Workflow](https://www.linkedin.com/posts/vibhor-choudhary_buildinpublic-day9-30daysofai-activity-7348953339792891905-P0y5)
+
+### 3. Professional Consulting Simulations
 * **BCG X GenAI**
     * **Scenario:** LLM chatbots for consulting
     * **Result:** Achieved a **30% response accuracy gain**
@@ -53,6 +57,7 @@ I explore, build, and share practical automation and AI workflows. My focus: con
 * **Deloitte AI Academy**
     * **Task:** Automated financial data report generation with GenAI
     * **Impact:** **Hours saved per report** through strong LLM pipeline and extraction logic.
+    * **Relevant LinkedIn Post/Video:** [Google Data Analytics Professional Certificate with Python](https://www.linkedin.com/feed/update/urn:li:activity:7165038810757040128/)
 * **Tata GenAI Enterprise Project**
     * **Goal:** Workflow automation at enterprise scale
     * **Result:** **Reduced task processing time by 40%**
@@ -113,7 +118,7 @@ See public repositories and toolkits in my [**GitHub portfolio**](https://github
 ### Current Seeking:
 Internships in Data Analytics, GenAI Automation, and AI Workflow Engineering. Open to collaborations with founders and teams building practical, human-centric AI.
 
-"Automation and AI aren't just tools—they're how we transform work and unlock new possibilities."
+"Automation and AI aren't just tools—they’re how we transform work and unlock new possibilities."
 
 Star your favorite projects and join me—let’s build a more intelligent, automated future together!
 
