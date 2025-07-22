@@ -58,7 +58,7 @@ I explore, build, and share practical automation and AI workflows. My focus: con
 * **Deloitte AI Academy**
     * **Task:** Automated financial data report generation with GenAI
     * **Impact:** **Hours saved per report** through strong LLM pipeline and extraction logic.
-    * **Relevant LinkedIn Post/Video:** [Google Data Analytics Professional Certificate with Python](https://www.linkedin.com/feed/update/urn:li:activity:7165038810757040128/)
+   
 * **Tata GenAI Enterprise Project**
     * **Goal:** Workflow automation at enterprise scale
     * **Result:** **Reduced task processing time by 40%**
