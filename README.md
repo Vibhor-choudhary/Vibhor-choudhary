@@ -44,7 +44,8 @@ I explore, build, and share practical automation and AI workflows. My focus: con
 ### 2. Multi-Agent AI Workflow Systems
 * **Focus:** Autonomous workflow orchestration using n8n + LLMs.
 * **Components:** Implemented multi-turn prompt chaining with responsible AI best practices; integrated Python, Fliki, Notion, and Gmail APIs; focused on pipeline debugging and optimization for GenAI workloads; conducted no-code experiments with Replit, MCP, and Playwright.
-* **Relevant LinkedIn Post/Video:** [See Demos & Details Here](https://www.linkedin.com/feed/update/urn:li:activity:7142416806950275073/) ### 3. Professional Consulting Simulations
+* **Relevant LinkedIn Post/Video:** [See Demos & Details Here]([https://www.linkedin.com/feed/update/urn:li:activity:7142416806950275073/](https://www.linkedin.com/in/vibhor-choudhary/edit/forms/position/2665981239/?profileFormEntryPoint=PROFILE_SECTION))
+* ### 3. Professional Consulting Simulations
 * **BCG X GenAI**
     * **Scenario:** LLM chatbots for consulting
     * **Result:** Achieved a **30% response accuracy gain**
