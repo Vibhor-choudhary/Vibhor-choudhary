@@ -2,7 +2,7 @@
 
 > AI Tools \& Automation Enthusiast | Automation Explorer | Building in Public
 
-![Profile Banner: Dark mode, gears, neural paths, "VC" initials, Navi Mumbai skyline.](assets/Professional Cohesive Set Jul 22.jpeg)
+![Professional Cohesive Set Jul 22](https://github.com/user-attachments/assets/81e4ea6f-4877-4bf5-ac4c-584cdef98b5d)
 
 ## 🚀 About Me
 
