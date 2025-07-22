@@ -20,15 +20,15 @@ Automation explorer \& self-taught AI generalist from Navi Mumbai—turning comp
 - 🚑 **AI \& Healthcare Dashboard**
     * Global analysis of AI’s role in healthcare and jobs.
     * *KPI dashboards, interactivity, skills mapping.*
-    * [**View Demo on Tableau Public**](YOUR_TABLEAU_PUBLIC_DEMO_LINK_HERE)
+    * [**View Demo on Tableau Public**](https://public.tableau.com/app/profile/vibhor.choudhary5942/viz/AivsNonAiDashboard/AIVSNONAIJOBS)
     * [GitHub Repo Coming Soon!]
 - 🤖 **Multi-Agent AI Workflow System**
     * Orchestrates autonomous processes with n8n, LLMs, \& APIs—enables end-to-end workflow automation.
-    * [**See Demos on LinkedIn**](https://www.linkedin.com/in/vibhor-choudhary/recent_activity/shares/)
+    * [**See Demos on LinkedIn**](https://www.linkedin.com/posts/vibhor-choudhary_day5of30-buildwithai-n8n-activity-7346764721766715392-u_U_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfTicoBU2B8P8hFLvcU5VsQ9gECi2-oIZM)
 - 🧑‍💼 **Professional AI Consulting Simulations**
     * Real-world projects (BCG X, Deloitte, Tata):
     * Improved chatbot accuracy, automated finance workflows, reduced enterprise process time.
-    * [**Explore Project Details on LinkedIn**](https://www.linkedin.com/in/vibhor-choudhary/recent_activity/shares/)
+    * [**Explore Project Details on LinkedIn**](https://www.linkedin.com/in/vibhor-choudhary/)
 
 
 ## 🏅 Certifications \& Credentials
@@ -55,7 +55,7 @@ Automation explorer \& self-taught AI generalist from Navi Mumbai—turning comp
 
 ## 🔗 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/vibhor-choudhary/) | vibhorchoudharyjobs@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vibhor-choudhary/) | choudharyvibhor67@gmail.com
 
 *Open to internships in Data Analytics, GenAI Automation, Workflow Engineering, \& founder collaborations.*
 
