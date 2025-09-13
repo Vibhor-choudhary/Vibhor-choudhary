@@ -5,13 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhor-choudhary&label=Profile%20views&color=0e75b6&style=flat" alt="vibhor-choudhary" /> </p>
 
 ## 🚀 About Me
-
 Automation explorer \& self-taught AI generalist from Navi Mumbai—turning complex AI/automation problems into easy, actionable solutions. Building in public and sharing every workflow, lesson, and failure for community benefit.
 
-## ⚡ Tech Stack \& Skills
+
+## ⚡ Tech Stack & Skills
 
 | Python | GenAI | n8n | Tableau | AWS | Prompt Engineering | Multi-Agent Systems |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 *Currently exploring: Prompt engineering, GenAI workflow pipelines, and no-code automation tools.*
 
@@ -22,6 +23,7 @@ Automation explorer \& self-taught AI generalist from Navi Mumbai—turning comp
     * *KPI dashboards, interactivity, skills mapping.*
     * [**View Demo on Tableau Public**](https://public.tableau.com/app/profile/vibhor.choudhary5942/viz/AivsNonAiDashboard/AIVSNONAIJOBS)
     * [**GitHub Repo**](https://github.com/Vibhor-choudhary/AI-Healthcare-Dashboard.git)
+
 - 🤖 **Multi-Agent AI Workflow System**
     * Orchestrates autonomous processes with n8n, LLMs, \& APIs—enables end-to-end workflow automation.
     * [**LinkedIn Post**](https://www.linkedin.com/posts/vibhor-choudhary_day5of30-buildwithai-n8n-activity-7346764721766715392-u_U_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfTicoBU2B8P8hFLvcU5VsQ9gECi2-oIZM)
