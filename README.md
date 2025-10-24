@@ -76,6 +76,8 @@ Automation explorer \& self-taught AI generalist from Navi Mumbai—turning comp
 <br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhor-Choudhary&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![An image of @vibhorchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vibhorchoudhary)](https://holopin.io/@vibhorchoudhary)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vibhor-Choudhary&theme=vue&no-frame=false&no-bg=false&margin-w=4)
 
