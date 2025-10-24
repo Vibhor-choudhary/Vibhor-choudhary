@@ -76,6 +76,10 @@ Automation explorer \& self-taught AI generalist from Navi Mumbai—turning comp
 <br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhor-Choudhary&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 My Digital Credentials & Achievements (Holopin)
+
+I proudly showcase my verified digital credentials and achievements earned through community engagement, open-source contributions, and platform participation. This dynamic board highlights my involvement in major events like **Hacktoberfest** (for multiple years), my affiliation with organizations like **DigitalOcean** and **Appwrite**, and my status as an **early community member** of the Holopin platform.
+
 [![An image of @vibhorchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vibhorchoudhary)](https://holopin.io/@vibhorchoudhary)
 
 ## 🏆 GitHub Trophies
