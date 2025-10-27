@@ -82,9 +82,6 @@ I proudly showcase my verified digital credentials and achievements earned throu
 
 [![An image of @vibhorchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vibhorchoudhary)](https://holopin.io/@vibhorchoudhary)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vibhor-Choudhary&theme=vue&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Vibhor-Choudhary&icon=3&color=1)](https://visitcount.itsvg.in)
 
