@@ -2,6 +2,8 @@
 
 <h3 align="center"> AI Tools & Automation Enthusiast | Automation Explorer | Building in Public</h3>
 
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhor-choudhary&label=Profile%20views&color=0e75b6&style=flat" alt="vibhor-choudhary" /> </p>
 
 ## 🚀 About Me
