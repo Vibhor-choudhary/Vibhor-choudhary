@@ -20,7 +20,7 @@ Automation explorer \& self-taught AI generalist from Navi Mumbai—turning comp
 
 ## 📂 Featured Projects
 
-<img align="right" alt="Coder GIF" width=400 src="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" />
+<img align="right" alt="Coder GIF" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
 - 🚑 **AI \& Healthcare Dashboard**
