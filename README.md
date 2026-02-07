@@ -12,12 +12,14 @@ Automation explorer \& self-taught AI generalist from Navi Mumbai—turning comp
 
 | Python | GenAI | n8n | Tableau | AWS | Prompt Engineering | Multi-Agent Systems |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-<img align="centre" alt="Coder GIF" height=450 width=1007 src="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" />
-
 
 *Currently exploring: Prompt engineering, GenAI workflow pipelines, and no-code automation tools.*
 
+
 ## 📂 Featured Projects
+
+<img align="right" alt="Coder GIF" width=500 src="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" />
+
 
 - 🚑 **AI \& Healthcare Dashboard**
     * Global analysis of AI’s role in healthcare and jobs.
